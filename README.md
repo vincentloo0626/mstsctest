@@ -1,1 +1,1 @@
-# mstsctest
+print("Hello, World!")# mstsctest
